@@ -42,4 +42,25 @@ body {
 
 #grey {
   margin-right: 20px;
+  background-color: darkgrey;
+}
+
+.custom {
+  margin-top: 20px;
+  color: white;
+}
+
+input {
+  border-radius: 10px;
+  border: none;
+  padding: 10px;
+  width: 100px;
+}
+
+#submitButton {
+  cursor: pointer;
+  padding: 5px 24px;
+  border: none;
+  border-radius: 20px;
+  margin-top: 20px;
 }
