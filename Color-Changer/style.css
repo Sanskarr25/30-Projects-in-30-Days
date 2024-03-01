@@ -1,0 +1,45 @@
+body {
+  background-color: darkgrey;
+}
+
+.content {
+  text-align: center;
+  margin-top: 180px;
+}
+
+.text {
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+}
+
+.button {
+  margin-top: 20px;
+  cursor: pointer;
+  padding: 10px 24px;
+  border: none;
+  border-radius: 20px;
+}
+
+#maroon {
+  margin-right: 20px;
+  background-color: maroon;
+}
+
+#violet {
+  margin-right: 20px;
+  background-color: violet;
+}
+
+#indigo {
+  margin-right: 20px;
+  background-color: indigo;
+}
+
+#pink {
+  margin-right: 20px;
+  background-color: pink;
+}
+
+#grey {
+  margin-right: 20px;
+}
